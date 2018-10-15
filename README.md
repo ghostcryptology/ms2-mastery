@@ -7,16 +7,20 @@
     - [Guidelines](#guidelines)
     - [Recruitment](#recruitment)
     - [General Info](#general-info)
+    - [UGC](#ugc)
   - [Beginner Tips](#beginner-tips)
   - [How-to reach level 50](#how-to-reach-level-50)
   - [How-to reach level 60](#how-to-reach-level-60)
   - [How-to obtain 1500 Gear Score](#how-to-obtain-1500-gear-score)
-  - [Alternative to 1500 gear score](#alternative-to-1500-gear-score)
+  - [Alternative to 1500 Gear Score](#alternative-to-1500-gear-score)
   - [Getting to 2100 Gear Score](#getting-to-2100-gear-score)
   - [Normal Dungeon Tips/Info](#normal-dungeon-tipsinfo)
   - [Hard Dungeon Tips/Info](#hard-dungeon-tipsinfo)
   - [Post Level Cap](#post-level-cap)
   - [Misc Tips](#misc-tips)
+  - [Dungeon-specific Tips](#dungeon-specific-tips)
+    - [Tronix Bunker](#tronix-bunker)
+    - [The Fire Dragon](#the-fire-dragon)
 
 <!-- /TOC -->
 
@@ -32,7 +36,7 @@ We're generally on the older side of the spectrum, 20-30+ year-olds, including s
 - Be helpful
 - No spamming, begging, pleading, etc.
 - No harassment
-- Min level and gear score requirement will be eventually implemented
+- Min level and gear score requirement will eventually be implemented
 
 ### Recruitment
 
@@ -47,6 +51,12 @@ The above is subject to change, but it is our current method of initiation :)
 - Official Server: NA West
 - If you don't have a Premium Package with unlimited Rotors, you can find portals to all major destinations in the houses of the following members:
   - G6/Tattoos
+
+### UGC
+
+Some of us are also big into UGC (User-generated Content). We make our own in-game clothes and gear. Ask in Discord for Photoshop/design help.
+
+Also, we'll be designing a Guild-specific outfit, stay tuned!
 
 ## Beginner Tips
 
@@ -78,7 +88,7 @@ Being level 60 currently will reduce your damage output due to Nexon's Fair Figh
 Since there are no level 50+ dungeons, the higher the level, the more severe the damage scaling.
 
 - Complete [Epic] quest line (minor XP)
-- Kill World Bosses (extra XP in party)
+- Kill World Bosses (extra XP if in party)
 - Auto play music or auto fish (easiest)
 
 ## How-to obtain 1500 Gear Score
@@ -87,7 +97,7 @@ Since there are no level 50+ dungeons, the higher the level, the more severe the
 - Use one of the +7 on the last blue weapon the [Epic] quest gives you (should be a lv 48 weapon)
 - Use your second +7 enchant scroll on your next best piece of armor (preferably blue, should be lv 48-49 gear)
 
-## Alternative to 1500 gear score
+## Alternative to 1500 Gear Score
 
 - If for whatever reason you cannot do the above, you can also buy all the lv 50 blue gear for your class in Black Market to reach 1500 (each blue piece is cheap, ~20k-40k mesos each)
 
@@ -103,7 +113,6 @@ Since there are no level 50+ dungeons, the higher the level, the more severe the
 - Purple drop rate is terrible
 - Most (if not all) of the gear obtained in Normal Dungeons can be traded/sold
 - Spend as little time as possible running Normal Dungeons (once you can afford to gear up to 2100, do so)
-- On Tronix Bunker, use the EMP Bombs/Canisters on the map to stun the bosses
 
 ## Hard Dungeon Tips/Info
 
@@ -125,3 +134,19 @@ Since there are no level 50+ dungeons, the higher the level, the more severe the
 - Create alts to pool resources
 - Every new alt to max level generates ~3M mesos
 - Sell onyx crystals if needed to reach 2100 gear score
+
+## Dungeon-specific Tips
+
+### Tronix Bunker
+
+- Skip the early mobs and run straight to mini-bosses
+- Use the EMP Bombs/Canisters on the map to stun the bosses (cuts completion time down significantly)
+- You can bait the bosses into destroying fences to give access to EMPs
+- Don't take damage while carrying an EMP, it will disappear!
+
+### The Fire Dragon
+
+- Treat your burns!
+- Berserkers can hit Fire Dragon with the Spin Attack while in one of the holes
+
+(more coming)
