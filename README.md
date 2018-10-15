@@ -6,7 +6,7 @@
   - [Guild Overview](#guild-overview)
     - [Guidelines](#guidelines)
     - [Recruitment](#recruitment)
-    - [Info](#info)
+    - [General Info](#general-info)
   - [Beginner Tips](#beginner-tips)
   - [How-to reach level 50](#how-to-reach-level-50)
   - [How-to reach level 60](#how-to-reach-level-60)
@@ -28,22 +28,25 @@ We're generally on the older side of the spectrum, 20-30+ year-olds, including s
 
 ### Guidelines
 
-- be respectful (to everyone, not just fellow members)
-- no spamming, begging, pleading, etc.
-- no harassment
-- preferably be helpful
+- Be respectful (to everyone, not just fellow members)
+- Be helpful
+- No spamming, begging, pleading, etc.
+- No harassment
+- Min level and gear score requirement will be eventually implemented
 
 ### Recruitment
 
-Preferably with two or three other guild members, hop on your Duck mount, and quack (hold CTRL) at the potential recruit. If the recruit responds by quacking on their Duck, they're in!
+Preferably with two or three other guild members, hop on your Duck mount, and quack (hold <kbd>Ctrl</kbd>) at the potential recruit. If the recruit responds by quacking on their Duck, they're in!
 
 The above is subject to change, but it is our current method of initiation :)
 
-### Info
+### General Info
 
 - Discord channel link is posted in the Guild Tab > Guild Notice in-game.
 - Official Guild Channel: 7
 - Official Server: NA West
+- If you don't have a Premium Package with unlimited Rotors, you can find portals to all major destinations in the houses of the following members:
+  - G6/Tattoos
 
 ## Beginner Tips
 
