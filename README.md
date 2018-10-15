@@ -1,12 +1,12 @@
 # Maplestory 2 Guild: Mastery
 
 - [Maplestory 2 Guild: Mastery](#maplestory-2-guild-mastery)
-  _ [Guild guidelines](#guild-guidelines)
-  _ [Beginner Tips](#beginner-tips)
-  _ [How-to reach level cap](#how-to-reach-level-cap)
-  _ [Alternative to getting 1500 gear score](#alternative-to-getting-1500-gear-score)
-  _ [Getting to 2100 Gear Score](#getting-to-2100-gear-score)
-  _ [Misc Tips](#misc-tips)
+  - [Guild guidelines](#guild-guidelines)
+  - [Beginner Tips](#beginner-tips)
+  - [How-to reach level cap](#how-to-reach-level-cap)
+  - [Alternative to getting 1500 gear score](#alternative-to-getting-1500-gear-score)
+  - [Getting to 2100 Gear Score](#getting-to-2100-gear-score)
+  - [Misc Tips](#misc-tips)
 
 ## Guild guidelines
 
