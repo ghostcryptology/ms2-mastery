@@ -1,9 +1,5 @@
 # Maplestory 2 Guild: Mastery
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
 - [Maplestory 2 Guild: Mastery](#maplestory-2-guild-mastery)
   _ [Guild guidelines](#guild-guidelines)
   _ [Beginner Tips](#beginner-tips)
@@ -11,8 +7,6 @@
   _ [Alternative to getting 1500 gear score](#alternative-to-getting-1500-gear-score)
   _ [Getting to 2100 Gear Score](#getting-to-2100-gear-score)
   _ [Misc Tips](#misc-tips)
-
-<!-- /code_chunk_output -->
 
 ## Guild guidelines
 
