@@ -94,8 +94,8 @@ Since there are no level 50+ dungeons, the higher the level, the more severe the
 ## How-to obtain 1500 Gear Score
 
 - The [Epic] quest line will give you two +7 enchant scrolls (only usable on lv 49 or below gear)
-- Use one of the +7 on the last blue weapon the [Epic] quest gives you (should be a lv 48 weapon)
-- Use your second +7 enchant scroll on your next best piece of armor (preferably blue, should be lv 48-49 gear)
+- Use one of the +7 on the last green weapon the [Epic] quest gives you (should be a lv 48 weapon, the one before the lv 50 blue weapon it gives)
+- Use your second +7 enchant scroll on your next best piece of armor (should be lv 48-49 gear)
 
 ## Alternative to 1500 Gear Score
 
