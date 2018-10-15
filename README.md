@@ -1,13 +1,22 @@
 # Maplestory 2 Guild: Mastery
 
-- [Guild Overview](#guild-overview)
-- [Guild Guidelines](#guild-guidelines)
-- [Beginner Tips](#beginner-tips)
+<!-- TOC -->
+
+- [Maplestory 2 Guild: Mastery](#maplestory-2-guild-mastery)
+  - [Guild Overview](#guild-overview)
+  - [Guild Guidelines](#guild-guidelines)
+  - [Beginner Tips](#beginner-tips)
   - [How-to reach level 50](#how-to-reach-level-50)
   - [How-to reach level 60](#how-to-reach-level-60)
+  - [How-to obtain 1500 Gear Score](#how-to-obtain-1500-gear-score)
   - [Alternative to 1500 gear score](#alternative-to-1500-gear-score)
   - [Getting to 2100 Gear Score](#getting-to-2100-gear-score)
-- [Misc Tips](#misc-tips)
+  - [Normal Dungeon Tips/Info](#normal-dungeon-tipsinfo)
+  - [Hard Dungeon Tips/Info](#hard-dungeon-tipsinfo)
+  - [Post Level Cap](#post-level-cap)
+  - [Misc Tips](#misc-tips)
+
+<!-- /TOC -->
 
 ## Guild Overview
 
@@ -31,29 +40,21 @@ Tips below are not exhaustive, just what worked for me so far
 - You don't have to buy an air mount with merets, you can get some for free via Maple Guide
 - There's a 50,000 mesos Festival Balloons air mount that you can buy from Supply Vendors (NPC) in major cities (Tria, Henesys, Ellinia, etc.) to move horizontally faster
 - General goals:
-  - reach lvl 50
-  - Gear score: 1500 (normal dungeons)
-    - terrible purple drop rate
-  - Gear score: 2100 (hard dungeons)
-    - guaranteed purple drop
-    - guaranteed purple weapon for your class within 4 runs due to fragments
-  - Gear score: 3300 (chaos raids)
-  - reach lvl 60
-    - kill world bosses or auto play music/fish
+  1. reach lvl 50 or 60
+  2. Gear score: 1500 (normal dungeons)
+  3. Gear score: 2100 (hard dungeons)
+  4. Gear score: 3300 (chaos raids)
 
-### How-to reach level 50
+## How-to reach level 50
 
 Even though level 60 is max level, 50-60 doesn't provide additional benefits (actually a detriment, more below), so getting to 50 should be the focus.
 
 - Follow [Epic] quest line till the end
-- The quest line will give you two +7 enchant scrolls (only usable on lv 49 or below gear)
-- Use one of the +7 on the last blue weapon the [Epic] quest gives you (should be a lv 48 weapon)
-- Use your second +7 enchant scroll on your next best piece of armor (preferably blue, should be lv 48-49 gear)
 - This gets your Gear Score to 1500, minimum requirement for Normal Dungeons
 - Run Normal Dungeons to get purple (epic) gear, or until you save enough mesos to buy your first purple from the Black Market
 - Once you have 2100 gear score, run Hard Dungeons
 
-### How-to reach level 60
+## How-to reach level 60
 
 Being level 60 currently will reduce your damage output due to Nexon's Fair Fight mechanics. It's basically damage scaling, so a level 60 with the same gear as a level 50 will do less damage in a level 50 dungeon.
 
@@ -63,19 +64,47 @@ Since there are no level 50+ dungeons, the higher the level, the more severe the
 - Kill World Bosses (extra XP in party)
 - Auto play music or auto fish (easiest)
 
-### Alternative to 1500 gear score
+## How-to obtain 1500 Gear Score
 
-- if for whatever reason using the +7 enchant scrolls didn't work to get to 1500 gear score, you can also buy all the lv 50 blue gear for your class in Black Market to reach 1500 (each blue piece is cheap, ~20k-40k mesos each)
+- The [Epic] quest line will give you two +7 enchant scrolls (only usable on lv 49 or below gear)
+- Use one of the +7 on the last blue weapon the [Epic] quest gives you (should be a lv 48 weapon)
+- Use your second +7 enchant scroll on your next best piece of armor (preferably blue, should be lv 48-49 gear)
 
-### Getting to 2100 Gear Score
+## Alternative to 1500 gear score
 
-- it is usually not recommended to buy your purple weapon from the Black Market, because within 4 Hard Dungeon runs, you'll get a purple weapon guaranteed
-- there are multiple ways however
-  - getting 1 purple gear and enchanting the rest of your gear until 2100
-  - getting the purple suit of your choice (should be biggest boost to gear score)
+- If for whatever reason you cannot do the above, you can also buy all the lv 50 blue gear for your class in Black Market to reach 1500 (each blue piece is cheap, ~20k-40k mesos each)
+
+## Getting to 2100 Gear Score
+
+- It is usually not recommended to buy your purple weapon from the Black Market, because within 4 Hard Dungeon runs, you'll get a purple weapon guaranteed
+- There are multiple ways however
+  - Getting 1 purple gear and enchanting the rest of your gear until 2100
+  - Getting the purple suit of your choice (should be biggest boost to gear score)
+
+## Normal Dungeon Tips/Info
+
+- Purple drop rate is terrible
+- Most (if not all) of the gear obtained in Normal Dungeons can be traded/sold
+- Spend as little time as possible running Normal Dungeons (once you can afford to gear up to 2100, do so)
+- On Tronix Bunker, use the EMP Bombs/Canisters on the map to stun the bosses
+
+## Hard Dungeon Tips/Info
+
+- Guaranteed purple drops per run -- if gear is not for your class, dismantle for fragment
+- Guaranteed purple for your class within 4 runs due to fragments (including weapon)
+- Most of the gear obtained in Hard Dungeons cannot be traded or sold
+- Learn the boss mechanics via YouTube, or possibly even running it solo a couple times (without using pots/resources) to get a feel for things, or we can set up some learning sessions
+
+## Post Level Cap
+
+- Complete Daily Missions
+- Complete 10 dungeon runs
+- Farm special currencies for different merchants
 
 ## Misc Tips
 
-- Gear from Normal Dungeons can be sold/traded, almost nothing from Hard Dungeons is tradable.
-- Once your character gets to 2100 gear score, they mostly gear themselves.
-- Below 2100, alts are helpful to increase daily/weekly dungeon run limits.
+- Once your character gets to 2100 gear score, they mostly gear themselves
+- Below 2100, alts are helpful to increase daily/weekly dungeon run limits
+- Create alts to pool resources
+- Every new alt to max level generates ~3M mesos
+- Sell onyx crystals if needed to reach 2100 gear score
