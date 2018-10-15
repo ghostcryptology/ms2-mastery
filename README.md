@@ -1,21 +1,35 @@
 # Maplestory 2 Guild: Mastery
 
-- [Maplestory 2 Guild: Mastery](#maplestory-2-guild-mastery)
-  - [Guild guidelines](#guild-guidelines)
-  - [Beginner Tips](#beginner-tips)
-  - [How-to reach level cap](#how-to-reach-level-cap)
-  - [Alternative to getting 1500 gear score](#alternative-to-getting-1500-gear-score)
+- [Guild Overview](#guild-overview)
+- [Guild Guidelines](#guild-guidelines)
+- [Beginner Tips](#beginner-tips)
+  - [How-to reach level 50](#how-to-reach-level-50)
+  - [How-to reach level 60](#how-to-reach-level-60)
+  - [Alternative to 1500 gear score](#alternative-to-1500-gear-score)
   - [Getting to 2100 Gear Score](#getting-to-2100-gear-score)
-  - [Misc Tips](#misc-tips)
+- [Misc Tips](#misc-tips)
 
-## Guild guidelines
+## Guild Overview
 
-TBD
+We're a community of like-minded players who strive for end-game content and gear without dedicating our entire lives to it. Even though gearing up is important to us, the social aspects of our community will always be the priority. After all, what's the point if we're not having fun?
+
+We're generally on the older side of the spectrum, 20-30+ year-olds, including some OG's from Maplestory 1. We recruit members of all ages however, it's more a question of maturity than age.
+
+## Guild Guidelines
+
+- be respectful (to everyone, not just fellow members)
+- no spamming, begging, pleading, etc.
+- no harassment
+- preferably be helpful
 
 ## Beginner Tips
 
 Tips below are not exhaustive, just what worked for me so far
 
+- Skill Tree reset is free and unlimited, so experiment with your skills!
+- Attribute Points reset is also free and unlimited
+- You don't have to buy an air mount with merets, you can get some for free via Maple Guide
+- There's a 50,000 mesos Festival Balloons air mount that you can buy from Supply Vendors (NPC) in major cities (Tria, Henesys, Ellinia, etc.) to move horizontally faster
 - General goals:
   - reach lvl 50
   - Gear score: 1500 (normal dungeons)
@@ -24,10 +38,12 @@ Tips below are not exhaustive, just what worked for me so far
     - guaranteed purple drop
     - guaranteed purple weapon for your class within 4 runs due to fragments
   - Gear score: 3300 (chaos raids)
-  - reach lvl 60 (although Nexon's Fair Fight aka dmg scaling mechanics penalize max level characters)
+  - reach lvl 60
     - kill world bosses or auto play music/fish
 
-### How-to reach level cap
+### How-to reach level 50
+
+Even though level 60 is max level, 50-60 doesn't provide additional benefits (actually a detriment, more below), so getting to 50 should be the focus.
 
 - Follow [Epic] quest line till the end
 - The quest line will give you two +7 enchant scrolls (only usable on lv 49 or below gear)
@@ -37,7 +53,17 @@ Tips below are not exhaustive, just what worked for me so far
 - Run Normal Dungeons to get purple (epic) gear, or until you save enough mesos to buy your first purple from the Black Market
 - Once you have 2100 gear score, run Hard Dungeons
 
-### Alternative to getting 1500 gear score
+### How-to reach level 60
+
+Being level 60 currently will reduce your damage output due to Nexon's Fair Fight mechanics. It's basically damage scaling, so a level 60 with the same gear as a level 50 will do less damage in a level 50 dungeon.
+
+Since there are no level 50+ dungeons, the higher the level, the more severe the damage scaling.
+
+- Complete [Epic] quest line (minor XP)
+- Kill World Bosses (extra XP in party)
+- Auto play music or auto fish (easiest)
+
+### Alternative to 1500 gear score
 
 - if for whatever reason using the +7 enchant scrolls didn't work to get to 1500 gear score, you can also buy all the lv 50 blue gear for your class in Black Market to reach 1500 (each blue piece is cheap, ~20k-40k mesos each)
 
