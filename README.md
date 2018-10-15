@@ -4,8 +4,9 @@
 
 - [Maplestory 2 Guild: Mastery](#maplestory-2-guild-mastery)
   - [Guild Overview](#guild-overview)
-  - [Guild Guidelines](#guild-guidelines)
-  - [Guild Recruitment](#guild-recruitment)
+    - [Guidelines](#guidelines)
+    - [Recruitment](#recruitment)
+    - [Info](#info)
   - [Beginner Tips](#beginner-tips)
   - [How-to reach level 50](#how-to-reach-level-50)
   - [How-to reach level 60](#how-to-reach-level-60)
@@ -25,18 +26,24 @@ We're a community of like-minded players who strive for end-game content and gea
 
 We're generally on the older side of the spectrum, 20-30+ year-olds, including some OG's from Maplestory 1. We recruit members of all ages however, it's more a question of maturity than age.
 
-## Guild Guidelines
+### Guidelines
 
 - be respectful (to everyone, not just fellow members)
 - no spamming, begging, pleading, etc.
 - no harassment
 - preferably be helpful
 
-## Guild Recruitment
+### Recruitment
 
 Preferably with two or three other guild members, hop on your Duck mount, and quack (hold CTRL) at the potential recruit. If the recruit responds by quacking on their Duck, they're in!
 
 The above is subject to change, but it is our current method of initiation :)
+
+### Info
+
+- Discord channel link is posted in the Guild Tab > Guild Notice in-game.
+- Official Guild Channel: 7
+- Official Server: NA West
 
 ## Beginner Tips
 
